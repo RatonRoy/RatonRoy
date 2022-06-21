@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 * warehouse-website-client-side
 #### 🌱  I’m currently trying to learn more about Node, Express, MongoDB, and their uses in a website.   
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RatonRoy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
