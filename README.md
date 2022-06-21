@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raton Chandro Roy</h1>
+<h1 align="center">Hi, </br> I'm Raton  Roy</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratonroy&label=Profile%20views&color=0e75b6&style=flat" alt="ratonroy" /> </p>
