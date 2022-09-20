@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratonroy&label=Profile%20views&color=0e75b6&style=flat" alt="ratonroy" /> </p>
 
+- 🌱 I’m currently learning **React state management with Redux and and advance use of react hooks. **
+
 - 🔭 I’m currently working on [Manufacture Project](https://github.com/RatonRoy/manufacturer-website-client-side)
 
-- 🌱 I’m currently learning **React, Node, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://mellifluous-zuccutto-ac75e6.netlify.app/](https://mellifluous-zuccutto-ac75e6.netlify.app/)
 
