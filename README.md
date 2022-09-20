@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratonroy&label=Profile%20views&color=0e75b6&style=flat" alt="ratonroy" /> </p>
 
-- 🌱 I’m currently learning **React state management with Redux and and advance use of react hooks. **
+- 🌱 I’m currently learning for front-end purpose  **React state management with Redux and advance use of react hooks and Back-end purpose Node Js, Express Js, with Mongodb database**
 
-- 🔭 I’m currently working on [Manufacture Project](https://github.com/RatonRoy/manufacturer-website-client-side)
+<!-- - 🔭 I’m currently working on [Manufacture Project](https://github.com/RatonRoy/manufacturer-website-client-side) -->
 
 
-- 👨‍💻 All of my projects are available at [https://mellifluous-zuccutto-ac75e6.netlify.app/](https://mellifluous-zuccutto-ac75e6.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://mellifluous-zuccutto-ac75e6.netlify.app/](https://mellifluous-zuccutto-ac75e6.netlify.app/) -->
 
-- 💬 Ask me about **React,JavaScript**
+- 💬 Ask me about **React,JavaScript, Node Js**
 
 - 📫 How to reach me **ratonroy18@gmail.com**
 
