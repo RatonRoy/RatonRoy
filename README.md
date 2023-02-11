@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ratonroy18@gmail.com**
 
-- 📄 My Resume :  [https://docs.google.com/document/d/1owZrWtrQ3tdpugZ459kIdwRjneIUdWntOtghWN5s75M/edit](https://docs.google.com/document/d/1owZrWtrQ3tdpugZ459kIdwRjneIUdWntOtghWN5s75M/edit)
+- 📄 My Resume :  [https://docs.google.com/document/d/1DwabwUAZTHYK7pXn_EydBM1210KSV6VV6me6T6AZvPs/edit?usp=sharing](https://docs.google.com/document/d/1owZrWtrQ3tdpugZ459kIdwRjneIUdWntOtghWN5s75M/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
